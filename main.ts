@@ -1,3 +1,13 @@
-import { Carro } from "./carro";
+import { Cao } from "./Cao";
 
-var carro = new Carro();
+var cao = new Cao
+
+cao.Pelo
+cao.Placentario
+cao.caninosAparente
+cao.fucinho
+
+cao.comer()
+cao.comerDever()
+cao.latir()
+cao.mover()
