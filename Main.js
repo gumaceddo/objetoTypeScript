@@ -1,0 +1,12 @@
+"use strict";
+exports.__esModule = true;
+var Veiculo_1 = require("./Veiculo");
+var Moto_1 = require("./Moto");
+var Carros_1 = require("./Carros");
+var carro = new Carros_1.Carro();
+var moto = new Moto_1.Moto();
+var veiculo = new Veiculo_1.VeiculoTerrestre();
+carro.freia();
+carro.trocarMarcha();
+moto.freia();
+moto.trocarMarcha();
